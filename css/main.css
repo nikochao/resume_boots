@@ -1,0 +1,62 @@
+.head{
+    font-size:1.5em;
+    color:#2E406F
+}
+.date{
+    font-size: 0.8em;
+    color: gray;
+}
+p{
+    color:#555555
+}
+.name {
+    color: rgb(1, 1, 7);
+}
+
+.job_title{
+    color: rgb(51, 51, 134);
+}
+
+.self_intro{
+    font-size: 0.8em;
+    color: gray;
+}
+
+.contact{
+    font-size: 0.8em;
+    margin-top:6em;
+}
+
+#work{
+    margin-top:3em;
+}
+
+.work_title{
+    font-size: 1.5em;
+    
+}
+
+.company_title{
+    font-size: 1em;
+    color: rgb(51, 51, 134);
+}
+#school{
+    margin-top:3em;
+}
+.school_name{
+    font-size: 1.2em;
+}
+#project{
+    margin-top:3em;
+}
+
+.project_title{
+    font-size: 1.2em;
+}
+#skill{
+    margin-top:3em;
+}
+.skill_title{
+    color:#647B71;
+    font-weight: 400;
+}
